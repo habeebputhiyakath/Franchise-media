@@ -59,8 +59,9 @@ const PartnerLogos: React.FC = () => {
                 { name: "classic", logo: "/partner/052.png", height: "h-14" },
                 {name:"ffc" , logo:"/partner/053.png" ,height:"h-13"},
                                 {name:"yaghma" , logo:"/partner/054.png" ,height:"h-14"},
-                                {name:"broasto" , logo:"/partner/056.png" ,height:"h-14"},
-                                {name:"mandhi stories" , logo:"/partner/057.png" ,height:"h-17"}
+    { name: "broasto", logo: "/partner/056.png", height: "h-14" },
+    { name: "mandhi stories", logo: "/partner/057.png", height: "h-17" },
+    { name: "Phone Tech Education International", logo: "/partner/058.jpg", height: "h-17" }
 
 
 
