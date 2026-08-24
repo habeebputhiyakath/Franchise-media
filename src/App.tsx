@@ -18,7 +18,7 @@ import Clients from "./pages/clients";
 import Bloglist from "./components/blog/Bloglist";
 import BlogPost from "./components/blog/BlogPost";
 import BusinessDetails  from "./components/OpportunitiesDetail"
-
+import NotFound from "./pages/NotFound";
 
 
 
@@ -47,12 +47,14 @@ const App = () => {
         <Route path="/clients" element={<Clients />} />
         <Route path="/media" element={<Blog />} />
         <Route path="/contact" element={<Contact />} />
-        <Route path="/safeOption" element={<SafeOption />} />
+        <Route path="/safe-option" element={<SafeOption />} />
         <Route path="/franchisable" element={<Franchisable />} />
         <Route path="/business/:slug" element={<BusinessDetails />} />
 
         <Route path="/blog" element={<Bloglist />} />
-          <Route path="/blog/:slug" element={<BlogPost/>} />
+        <Route path="/blog/:slug" element={<BlogPost/>} />
+
+        <Route path="*" element={<NotFound />} />
       </Routes>
       <StickyWhatsapp />
       <StikyCall />

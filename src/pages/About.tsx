@@ -1,25 +1,22 @@
-import { Helmet } from "react-helmet-async";
+import SEO from "../components/SEO";
 import WhoAreWe from "../components/about/WhoAreWe";
 import FounderSection from "../components/FounderSection";
 
 const About = () => {
   return (
-    <div>
-      <Helmet>
-        <title>About Franchise Media | Leading Franchise Consultants</title>
-        <meta
-          name="description"
-          content="Learn about Franchise Media’s journey, vision, and leadership team helping brands grow through franchising."
-        />
-        <meta
-          name="keywords"
-          content="about franchise media, franchise experts, franchise consultants Kerala"
-        />
-      </Helmet>
+    <>
+      <SEO
+        title="About Franchise Media | Leading Franchise Consultants in Kerala & UAE"
+        description="Learn about Franchise Media, Kerala's first franchise consulting company. Meet founder Mr. Safwan CK and discover our mission to help brands grow through franchise development, legal support, and expansion strategy."
+        keywords="about franchise media, franchise consultants Kerala, franchise experts Calicut, Mr. Safwan CK Franchise Media, franchise consulting company Kerala, franchise advisory UAE, best franchise consultants Malappuram"
+        canonical="https://www.thefranchisemedia.com/about"
+      />
 
-      <WhoAreWe />
-      <FounderSection />
-    </div>
+      <main>
+        <WhoAreWe />
+        <FounderSection />
+      </main>
+    </>
   );
 };
 

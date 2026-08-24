@@ -584,7 +584,7 @@ The right franchise investment starts with the right analysis.
 
 {
   id: 7,
-  title: "How to Buy a Franchise in 2026: Whapublic/blog/fieststep.jpegt Entrepreneurs Should Know Before Taking the First Step",
+  title: "How to Buy a Franchise in 2026: What Entrepreneurs Should Know Before Taking the First Step",
   slug: "how-to-buy-a-franchise-in-2026",
   imageUrl: "/blog/fieststep.jpeg",
   publishedAt: "2025-11-15",

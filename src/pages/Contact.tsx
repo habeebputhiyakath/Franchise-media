@@ -1,30 +1,19 @@
-import { Helmet } from "react-helmet-async";
+import SEO from "../components/SEO";
 import HeroContact from "../components/contact/HeroContact";
 
 const Contact = () => {
   return (
     <>
-      <Helmet>
-        <title>Contact Us | Franchise Media</title>
-        <meta
-          name="description"
-          content="Get in touch with Franchise Media for expert franchise consulting, business expansion support, and marketing strategies. Contact us in India or UAE."
-        />
-        <meta
-          name="keywords"
-          content="contact franchise media, franchise consulting, franchise marketing, business growth support, franchise help"
-        />
-        <meta property="og:title" content="Contact Franchise Media" />
-        <meta
-          property="og:description"
-          content="Reach out to Franchise Media for franchise consulting and marketing guidance across India and UAE."
-        />
-        <meta property="og:image" content="https://yourdomain.com/og-image-contact.jpg" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://yourdomain.com/contact" />
-      </Helmet>
+      <SEO
+        title="Contact Franchise Media | Franchise Consultants in Kerala & UAE"
+        description="Get in touch with Franchise Media for expert franchise consulting, business expansion support, and franchise marketing. Contact our teams in Calicut, Malappuram, Kerala and Dubai, UAE."
+        keywords="contact franchise media, franchise consultants Calicut, franchise consultants Malappuram, franchise consulting UAE, franchise help Kerala, franchise business inquiry, contact franchise consultant Dubai"
+        canonical="https://www.thefranchisemedia.com/contact"
+      />
 
-      <HeroContact />
+      <main>
+        <HeroContact />
+      </main>
     </>
   );
 };

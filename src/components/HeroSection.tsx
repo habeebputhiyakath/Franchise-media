@@ -17,9 +17,8 @@ const HeroSection: React.FC = () => {
             data-aos-duration="1100"
             className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl font-semibold headingColor leading-tight"
           >
-<h1>
-Best Franchise Consultants in Kerala & UAE
-</h1>          </h1>
+            Best Franchise Consultants in Kerala & UAE
+          </h1>
 
           <p
             data-aos="fade-up"

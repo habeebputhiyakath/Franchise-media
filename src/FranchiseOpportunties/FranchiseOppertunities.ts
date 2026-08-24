@@ -161,7 +161,7 @@ gelato cafe cum bakery offers exclusive range of offerings include cakes,ice cre
    {
     category: "Food & Beverage Brand",
     title: "Kiwi icecream",
-    slug: "Kiwi icecream",
+    slug: "kiwi-icecream",
     image: "/partner/016.png",
     area:"300 sqft",
     investment:"12 lakhs",
@@ -219,7 +219,7 @@ market of Kerala`
   {
     category: "Hospital & Clinic",
     title: "Team Care & Cure",
-    slug: "Team Care & Cure",
+    slug: "team-care-cure",
     image: "/partner/037.png",
     area:"2000 - 3000 Sqft",
     investment:"8,000,000",
@@ -255,7 +255,7 @@ semi-urban communities throughout Kerala`
   {
     category: "Food & Beverage Brand",
     title: "Grapa’s Burger Lounge",
-    slug: "Grapa’s Burger Lounge",
+    slug: "grapas-burger-lounge",
     image: "/partner/06.jpg",
     area:"600-800 Sq Feet",
     investment:"22 Lakhs - 25 Lakhs",
@@ -285,7 +285,7 @@ burger chain in Kerala.`
   {
     category: "Food & Beverage Brand",
     title: "Cake Lounge",
-    slug: "Cake Lounge",
+    slug: "cake-lounge",
     image: "/partner/010.jpg",
     area:"200-250 sq.ft.",
     investment:"10 Lakhs",
@@ -333,7 +333,7 @@ special cakes for every occasion one celebrates.`
   {
     category: "Food & Beverage Brand",
     title: " Grama Bakes",
-    slug: " Grama Bakes",
+    slug: "grama-bakes",
     image: "/partner/039.jpg",
     area:"400 sqft",
     investment:"1500000",
@@ -416,7 +416,7 @@ style, and quality to create joyful fashion for children.`
     {
     category: "Retail & Clothing Brands",
     title: "Hap n Hop",
-    slug: "Hap n Hop",
+    slug: "hap-n-hop",
     image: "/partner/030.png",
     area:"350–500 sq. ft",
     investment:"₹17 Lakhs to 20 Lakhs",

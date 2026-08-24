@@ -1,4 +1,4 @@
-import { Helmet } from "react-helmet-async";
+import SEO from "../components/SEO";
 import OurService from "../components/service/OurService";
 import FranchiseServices from "../components/service/Section01";
 import consult from "../../public/json/Franchise Consulting Services.json";
@@ -50,21 +50,21 @@ const experienceData: ExperienceDataType[] = [
 
 const Service = () => {
   return (
-    <div>
-      <Helmet>
-        <title>Our Services | Franchise Consulting & Marketing</title>
-        <meta
-          name="description"
-          content="Explore our franchise consulting, marketing, and business development services designed to help brands scale efficiently."
-        />
-        <meta name="keywords" content="franchise services, consulting, marketing, expansion" />
-      </Helmet>
+    <>
+      <SEO
+        title="Franchise Services | Consulting, Marketing & Legal Support in Kerala"
+        description="Explore Franchise Media's franchise consulting services: franchise model development, legal documentation, franchise marketing, franchisee recruitment, SOP manuals, and expansion support across Kerala and UAE."
+        keywords="franchise services Kerala, franchise consulting services, franchise marketing Kerala, franchise model development, franchise legal documentation Kerala, franchisee recruitment, SOP manuals, franchise expansion UAE, franchise your business"
+        canonical="https://www.thefranchisemedia.com/service"
+      />
 
-      {experienceData.map((item, i) => (
-        <OurService item={item} key={i} />
-      ))}
-      <FranchiseServices />
-    </div>
+      <main>
+        {experienceData.map((item, i) => (
+          <OurService item={item} key={i} />
+        ))}
+        <FranchiseServices />
+      </main>
+    </>
   );
 };
 

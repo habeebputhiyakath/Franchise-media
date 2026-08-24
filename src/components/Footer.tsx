@@ -19,9 +19,10 @@ const Footer: React.FC = () => {
           {/* Company Info */}
           <div className="lg:w-64 w-full">
             <p className="mb-4 contentFont text-base">
-              Our expert financial consultants provide solutions to help you
-              achieve financial wealth. Trust us to guide you toward a brighter
-              financial future.
+              Franchise Media is Kerala&apos;s first franchise consulting company,
+              helping brands expand through franchise model development, legal
+              documentation, marketing, and franchisee recruitment across Kerala
+              and the UAE.
             </p>
           </div>
 

@@ -114,7 +114,7 @@ const ContactPopup: React.FC<ContactPopupProps> = ({ isOpen, onClose }) => {
             </MenuItems>
           </Menu>
           <div className="w-24 h-24 mb-4">
-            <img src="/contact/whatsapp.png" className="w-32 " alt="" />
+            <img src="/contact/whatsapp.png" className="w-32 " alt="WhatsApp Franchise Media" />
           </div>
           <h3 className="text-gray-800 font-medium mb-2">
             Connect with us to explore tailored
@@ -135,7 +135,7 @@ const ContactPopup: React.FC<ContactPopupProps> = ({ isOpen, onClose }) => {
         {/* Email Box */}
         <div className="bg-white rounded-2xl p-6 flex flex-col items-center text-center border-2 border-blue-600 shadow-lg">
           <div className="w-24 h-24 mb-4">
-            <img src="/contact/email.png" className="w-32 " alt="" />
+            <img src="/contact/email.png" className="w-32 " alt="Email Franchise Media" />
           </div>
           <h3 className="text-gray-800 font-medium mb-2">
             Contact us via email to explore exclusive

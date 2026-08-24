@@ -7,9 +7,8 @@
   <!-- Homepage -->
   <url>
     <loc>https://www.thefranchisemedia.com/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/" />
-    <lastmod>2025-07-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/" />
+    <lastmod>2026-06-10</lastmod>
     <priority>1.00</priority>
     <changefreq>weekly</changefreq>
   </url>
@@ -17,80 +16,71 @@
   <!-- About Page -->
   <url>
     <loc>https://www.thefranchisemedia.com/about</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/about" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/about" />
-    <lastmod>2025-07-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/about" />
+    <lastmod>2026-06-10</lastmod>
     <priority>0.80</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <!-- Services Page -->
   <url>
-    <loc>https://www.thefranchisemedia.com/services</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/services" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/services" />
-    <lastmod>2025-07-31</lastmod>
+    <loc>https://www.thefranchisemedia.com/service</loc>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/service" />
+    <lastmod>2026-06-10</lastmod>
     <priority>0.90</priority>
     <changefreq>monthly</changefreq>
   </url>
 
-  <!-- Media Page -->
+  <!-- Media / Gallery Page -->
   <url>
     <loc>https://www.thefranchisemedia.com/media</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/media" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/media" />
-    <lastmod>2025-07-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/media" />
+    <lastmod>2026-06-10</lastmod>
     <priority>0.70</priority>
     <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Clients Page -->
+  <url>
+    <loc>https://www.thefranchisemedia.com/clients</loc>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/clients" />
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Blog List Page -->
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/blog" />
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>weekly</changefreq>
   </url>
 
   <!-- Contact Page -->
   <url>
     <loc>https://www.thefranchisemedia.com/contact</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/contact" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/contact" />
-    <lastmod>2025-07-31</lastmod>
+    <xhtml:link rel="alternate" hreflang="en-in" href="https://www.thefranchisemedia.com/contact" />
+    <lastmod>2026-06-10</lastmod>
     <priority>0.64</priority>
     <changefreq>yearly</changefreq>
   </url>
 
-  <!-- Cities -->
+  <!-- Static Articles -->
   <url>
-    <loc>https://www.thefranchisemedia.com/calicut</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/calicut" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/calicut" />
-    <lastmod>2025-07-31</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.thefranchisemedia.com/safe-option</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
     <changefreq>monthly</changefreq>
   </url>
 
   <url>
-    <loc>https://www.thefranchisemedia.com/kochi</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/kochi" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/kochi" />
-    <lastmod>2025-07-31</lastmod>
-    <priority>0.80</priority>
+    <loc>https://www.thefranchisemedia.com/franchisable</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
     <changefreq>monthly</changefreq>
   </url>
-
-  <url>
-    <loc>https://www.thefranchisemedia.com/malappuram</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/malappuram" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/malappuram" />
-    <lastmod>2025-07-31</lastmod>
-    <priority>0.80</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-
-  <url>
-    <loc>https://www.thefranchisemedia.com/uae</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.thefranchisemedia.com/uae" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://www.thefranchisemedia.com/ar/uae" />
-    <lastmod>2025-07-31</lastmod>
-    <priority>0.90</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  
 
   <!-- Blog Pages -->
   <url>
@@ -111,6 +101,203 @@
     <loc>https://www.thefranchisemedia.com/blog/why-uae-is-becoming-a-hotspot-for-franchise-businesses</loc>
     <lastmod>2025-10-04</lastmod>
     <priority>0.85</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/common-mistakes-to-avoid-when-franchising</loc>
+    <lastmod>2025-10-14</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/the-importance-of-location-in-franchise-success</loc>
+    <lastmod>2025-10-30</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/franchise-roi-explained-how-to-calculate-returns-before-you-invest</loc>
+    <lastmod>2025-10-30</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/how-to-buy-a-franchise-in-2026</loc>
+    <lastmod>2025-11-15</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/best-food-franchise-opportunities-under-5-lakhs-india</loc>
+    <lastmod>2025-12-01</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/why-most-franchise-investors-fail-in-2026</loc>
+    <lastmod>2025-12-15</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/top-franchise-businesses-in-uae-for-indian-entrepreneurs</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/how-franchise-businesses-generate-passive-income</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/best-franchise-sectors-to-invest-in-during-2026</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/franchise-agreement-explained-things-you-must-check</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/food-franchise-vs-retail-franchise-which-makes-more-profit</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/blog/best-ev-charging-station-franchise-in-india</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.80</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <!-- Franchise Opportunity Detail Pages -->
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/wayn-medicare</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/melban</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/cake-studio</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/gelato-cafe</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/kiwi-icecream</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/team-care-cure</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/grapas-burger-lounge</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/cake-lounge</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/grama-bakes</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/cinnzeo-bakery</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/hap-n-hop</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/twist-on</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/chicken-story</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/dialogue</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/nardas-ladies</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+
+  <url>
+    <loc>https://www.thefranchisemedia.com/business/avilpro</loc>
+    <lastmod>2026-06-10</lastmod>
+    <priority>0.70</priority>
     <changefreq>monthly</changefreq>
   </url>
 
